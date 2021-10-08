@@ -7,4 +7,5 @@ All models in the paper is implement with Python 3.8.10 and TensorFlow 2.4.0
 ### Additional Library
 <ul>
   <li><a href="https://github.com/JustAnotherArchivist/snscrape">snscrape</a></li>
+  <li><a href="https://www.nltk.org/">nltk</a></li>
 </ul>
